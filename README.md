@@ -1,2 +1,2 @@
 # mdashrafulalam.github.io
-This is my personal webite!
+This is my personal website!
